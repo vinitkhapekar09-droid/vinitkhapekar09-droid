@@ -131,13 +131,11 @@ Currently wrapping up my B.Tech while actively shipping projects and looking for
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vinitkhapekar09-droid&show_icons=true&theme=github_dark" alt="GitHub Stats" />
 
-![Vinit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinitkhapekar09-droid&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinitkhapekar09-droid&layout=compact&theme=default&hide_border=true)
-
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinitkhapekar09-droid&layout=compact&theme=github_dark" alt="Top Languages" />
+</p>
 
 ---
 
