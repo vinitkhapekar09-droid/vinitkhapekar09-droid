@@ -80,6 +80,9 @@ Currently wrapping up my B.Tech while actively shipping projects and looking for
 ## 🚀 Featured Projects
 
 ### 🔍 AI Intelligence Hub
+
+[🌐 Live Demo](https://aiintelligencehub.duckdns.org/) • [📂 GitHub](https://github.com/vinitkhapekar09-droid/ai-intelligence-hub)
+
 > RAG system over live AI research — arXiv + news, daily ingested, embedded, and queryable
 
 - Daily ingestion pipeline: arXiv papers + news → chunking → Gemini embeddings (768-dim) → pgvector store
@@ -90,6 +93,9 @@ Currently wrapping up my B.Tech while actively shipping projects and looking for
 ---
 
 ### 📡 AIoT Monitoring Platform
+
+[🌐 Live Demo](https://aiot-platform.vercel.app/) • [📂 GitHub](https://github.com/vinitkhapekar09-droid/iot-platform)
+
 > Full-stack IoT platform with real-time sensor monitoring and an LLM-powered natural language query interface
 
 - FastAPI backend + React/Vite frontend; real-time ingestion and visualization of sensor data
@@ -101,6 +107,9 @@ Currently wrapping up my B.Tech while actively shipping projects and looking for
 ---
 
 ### 🧮 Qwen2-VL Fine-tuning: Math Equation → LaTeX
+
+[📂 GitHub](https://github.com/vinitkhapekar09-droid/readme_generator)
+
 > Multimodal VLM fine-tuned to convert images of math equations into LaTeX markup
 
 - Fine-tuned Qwen2-VL-7B-Instruct on the `unsloth/Latex_OCR` dataset
