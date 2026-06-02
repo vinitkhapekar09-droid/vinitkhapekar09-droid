@@ -131,6 +131,9 @@ Currently wrapping up my B.Tech while actively shipping projects and looking for
 ---
 
 ### 🧬 AI Text Detection — Research (RCOEM, 2026)
+
+[📂 GitHub](https://github.com/vinitkhapekar09-droid/AI-Text-Detection)
+
 > Hybrid Stylometric-BERT framework for detecting AI-generated text
 
 - Curated and merged 3 public datasets → 114K+ samples; prevented data leakage via prompt-based stratification
