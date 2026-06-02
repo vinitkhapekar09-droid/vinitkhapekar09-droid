@@ -36,7 +36,7 @@ I build end-to-end AI products — from raw datasets and model fine-tuning to de
 
 Currently wrapping up my B.Tech while actively shipping projects and looking for **AI/ML Engineering roles** where I can keep building things that matter.
 
-- 🧠 Research Intern in AI text detection — achieved **99.44% accuracy** with a hybrid BERT + stylometric model on 114K+ samples
+- 🧠 Research Intern in AI text detection — achieved **94.77% accuracy** with a hybrid BERT + stylometric model on 114K+ samples
 - 🤖 Built multi-agent systems from scratch using Groq's free tier (no LangChain, pure Python)
 - 📡 Developing an AIoT platform for pharma cold-chain monitoring with an LLM-powered query interface
 - 🎯 Currently exploring: LLM fine-tuning (LoRA/QLoRA), agentic AI patterns, and scaling solo-dev workflows with AI
