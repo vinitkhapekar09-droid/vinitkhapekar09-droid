@@ -108,6 +108,7 @@ Currently wrapping up my B.Tech while actively shipping projects and looking for
 
 ### 🧮 Qwen2-VL Fine-tuning: Math Equation → LaTeX
 
+[📂 GitHub](https://github.com/vinitkhapekar09-droid/-Qwen2-VL-Fine-tuning)
 
 > Multimodal VLM fine-tuned to convert images of math equations into LaTeX markup
 
