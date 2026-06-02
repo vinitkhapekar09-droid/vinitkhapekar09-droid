@@ -134,8 +134,8 @@ Currently wrapping up my B.Tech while actively shipping projects and looking for
 > Hybrid Stylometric-BERT framework for detecting AI-generated text
 
 - Curated and merged 3 public datasets → 114K+ samples; prevented data leakage via prompt-based stratification
-- Baseline: TF-IDF + Logistic Regression → **94.04% accuracy**
-- BERT fine-tuned classifier → **98.77% accuracy · 0.9868 F1 · 0.9995 ROC-AUC**
+- Baseline: TF-IDF + Logistic Regression → **89.04% accuracy**
+- BERT fine-tuned classifier → **94.77% accuracy · 0.9368 F1 · 0.9495 ROC-AUC**
 - **Stack:** Python · BERT · Scikit-learn · NLP
 
 ---
