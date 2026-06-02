@@ -108,7 +108,6 @@ Currently wrapping up my B.Tech while actively shipping projects and looking for
 
 ### 🧮 Qwen2-VL Fine-tuning: Math Equation → LaTeX
 
-[📂 GitHub](https://github.com/vinitkhapekar09-droid/readme_generator)
 
 > Multimodal VLM fine-tuned to convert images of math equations into LaTeX markup
 
@@ -120,6 +119,9 @@ Currently wrapping up my B.Tech while actively shipping projects and looking for
 ---
 
 ### 🤖 AutoREADME Generator
+
+[📂 GitHub](https://github.com/vinitkhapekar09-droid/readme_generator)
+
 > Multi-agent system that autonomously scans a project and generates a polished README
 
 - 5-agent pipeline: Scanner → File Summarizer → Project Analyzer → README Writer → Quality Checker
