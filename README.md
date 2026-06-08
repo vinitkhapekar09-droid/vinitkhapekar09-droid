@@ -81,7 +81,7 @@ Currently wrapping up my B.Tech while actively shipping projects and looking for
 
 ### 🔍 AI Intelligence Hub
 
-[🌐 Live Demo](https://aiintelligencehub.duckdns.org/) • [📂 GitHub](https://github.com/vinitkhapekar09-droid/ai-intelligence-hub)
+[🌐 Live Demo](https://aiintelligencehub.duckdns.org/) • [📂 GitHub](https://github.com/vinitkhapekar09-droid/AI-Intelligenc-Hub)
 
 > RAG system over live AI research — arXiv + news, daily ingested, embedded, and queryable
 
